@@ -1,0 +1,9 @@
+H:\VirtualStyle_Projects\ChatService\Client\obj\Debug\Client.csprojAssemblyReference.cache
+H:\VirtualStyle_Projects\ChatService\Client\bin\Debug\Client.exe.config
+H:\VirtualStyle_Projects\ChatService\Client\bin\Debug\Client.exe
+H:\VirtualStyle_Projects\ChatService\Client\bin\Debug\Client.pdb
+H:\VirtualStyle_Projects\ChatService\Client\bin\Debug\Core.SocketLib.dll
+H:\VirtualStyle_Projects\ChatService\Client\bin\Debug\Core.SocketLib.pdb
+H:\VirtualStyle_Projects\ChatService\Client\obj\Debug\Client.csproj.CopyComplete
+H:\VirtualStyle_Projects\ChatService\Client\obj\Debug\Client.exe
+H:\VirtualStyle_Projects\ChatService\Client\obj\Debug\Client.pdb

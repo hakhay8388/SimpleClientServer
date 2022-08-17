@@ -1,0 +1,8 @@
+H:\VirtualStyle_Projects\ChatService\Core.SocketLib\bin\Debug\netstandard2.0\Core.SocketLib.deps.json
+H:\VirtualStyle_Projects\ChatService\Core.SocketLib\bin\Debug\netstandard2.0\Core.SocketLib.dll
+H:\VirtualStyle_Projects\ChatService\Core.SocketLib\bin\Debug\netstandard2.0\Core.SocketLib.pdb
+H:\VirtualStyle_Projects\ChatService\Core.SocketLib\obj\Debug\netstandard2.0\Core.SocketLib.AssemblyInfoInputs.cache
+H:\VirtualStyle_Projects\ChatService\Core.SocketLib\obj\Debug\netstandard2.0\Core.SocketLib.AssemblyInfo.cs
+H:\VirtualStyle_Projects\ChatService\Core.SocketLib\obj\Debug\netstandard2.0\Core.SocketLib.dll
+H:\VirtualStyle_Projects\ChatService\Core.SocketLib\obj\Debug\netstandard2.0\Core.SocketLib.pdb
+H:\VirtualStyle_Projects\ChatService\Core.SocketLib\obj\Debug\netstandard2.0\Core.SocketLib.csprojAssemblyReference.cache
